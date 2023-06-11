@@ -1,0 +1,1 @@
+# chatGPT-prompts-for-salesforce-professional
