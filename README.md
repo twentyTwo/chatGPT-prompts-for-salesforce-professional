@@ -1,1 +1,1 @@
-# chatGPT-prompts-for-salesforce-professional
+# ChatGPT prompts for Salesforce Professional
